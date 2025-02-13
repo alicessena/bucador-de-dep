@@ -2,6 +2,9 @@
 
 Este é um aplicativo simples para buscar informações de um CEP usando **React.js** e a API do **ViaCEP**. Ele permite ao usuário inserir um CEP, buscar seus detalhes e visualizar informações como endereço, bairro, cidade e estado.
 
+
+[![Teste Agora](https://i.imgur.com/NjMHH9O.png)](https://buscador-de-cep-alicessena.vercel.app/)
+
 ## 🚀 Funcionalidades
 
 
